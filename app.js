@@ -15,6 +15,7 @@ angular.module("myApp" , ["ionic" , "ngCordova" , "myApp.controller"])
   //   });
   // })
 alert("就是跟你开玩笑");
+alert("wocao");
 开什么玩笑
   .config(["$stateProvider" , "$urlRouterProvider", function ($stateProvider , $urlRouterProvider) {
     $stateProvider
